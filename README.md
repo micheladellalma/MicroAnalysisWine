@@ -24,6 +24,9 @@ Among the different steps of the pipeline:
 4. **Metabolites classification** into chemical groups and search for enriched metabolites per time point
 5. **Integration** of all the data and **Network analysis**
 
+<img width="349" height="208" alt="image" src="https://github.com/user-attachments/assets/a84b81d0-b2aa-49e6-b27c-e444886931e1" />
+
+
 ## How to use
 For the initial steps of pre-processing and taxonomic classification
 
