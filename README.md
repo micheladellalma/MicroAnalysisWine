@@ -14,16 +14,11 @@ the image below is an overview of all the workflow
 
 <img width="522" height="428" alt="image" src="https://github.com/user-attachments/assets/bbdd70b6-1845-47d0-ad18-c287a8691ca0" />
 
+
 Among the different steps of the pipeline:
-1. Pre-processing step of the data (both abundance table and metabolomics)
-2a. Discovering of the pathways related to the genomes (functional annotation)
-2b. Differentially potentially expressed pathways between time points
-3. Differentially abundant metabolites bet
 
-## Functional annotation
-
-## Filtering and Diversity computation
-
-## Differential Abundance between time points
-
-## Network Analysis
+1. Preprocessing of the data (abundance table and metabolomics)
+2. Taxonomic classification and differential abundance of taxa between time points
+3. Discovering of the pathways potentially expressed and definition of the pathways enriched for each time point
+4. Metabolites classification into chemical groups and search for enriched metabolites per time point
+5. Integration of all the data and Network analysis
