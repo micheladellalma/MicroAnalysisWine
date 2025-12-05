@@ -28,7 +28,7 @@ Among the different steps of the pipeline:
 
 
 ## How to use
-For the initial steps of pre-processing and taxonomic classification
+For the initial steps of pre-processing and taxonomic classification...
 
 
 ## Repository structure
